@@ -1,0 +1,2 @@
+# Neural net for Handwritten Digit Recognition, Classification and XOR Problem
+ This project covers the implementation of distance-based classifiers, multi-class perceptrons, and neural networks for the MNIST dataset (handwritten digit recognition) and the XOR problem. Tasks include dimensionality reduction, nearest mean classification, K-Nearest Neighbor (KNN) classification, multi-class perceptron training, and building a neural network from scratch using gradient descent.
